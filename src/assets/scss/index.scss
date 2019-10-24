@@ -1,0 +1,8 @@
+@import 'normalize.css';
+@import 'var';
+@import 'response';
+
+body {
+  background-color: $color-bg;
+  user-select: none;
+}
